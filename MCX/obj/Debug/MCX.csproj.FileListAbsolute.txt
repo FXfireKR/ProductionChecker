@@ -1,0 +1,10 @@
+C:\Users\FXfire\source\repos\MCX\MCX\bin\Debug\MCX.exe.config
+C:\Users\FXfire\source\repos\MCX\MCX\bin\Debug\MCX.exe
+C:\Users\FXfire\source\repos\MCX\MCX\bin\Debug\MCX.pdb
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.csprojAssemblyReference.cache
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.Form1.resources
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.Properties.Resources.resources
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.csproj.GenerateResource.cache
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.csproj.CoreCompileInputs.cache
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.exe
+C:\Users\FXfire\source\repos\MCX\MCX\obj\Debug\MCX.pdb
